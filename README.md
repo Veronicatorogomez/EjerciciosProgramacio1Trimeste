@@ -1,2 +1,2 @@
-# EjerciciosProgramacio1Trimeste
+# EjerciciosProgramacion1Trimeste
 Contiene los ejercicios de programación 
